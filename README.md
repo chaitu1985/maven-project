@@ -1,2 +1,2 @@
 # maven-project
-finmrp_build
+finmrp_build process
